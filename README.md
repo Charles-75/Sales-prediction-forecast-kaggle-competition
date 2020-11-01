@@ -1,7 +1,8 @@
 # Sales-prediction-forecast-kaggle-competition
 
 This kaggle competition deals with a challenging time-series dataset consisting of daily sales data, provided by one of the largest Russian software firms - 1C Company.  
-The goal of this competition is to predict total sales for every product and store in the next month. 
+The goal of this competition is to predict total sales for every product and store in the next month.  
+The kernel can be found on Kaggle website : https://www.kaggle.com/charles75/sales-forecast-univariate-and-multivariate-lstm
 
 ## Data description
 
